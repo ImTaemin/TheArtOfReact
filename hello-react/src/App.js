@@ -1,7 +1,10 @@
-import Counter from "./Counter";
+import React from 'react';
+import EventPractice from './EventPractice';
 
-const App = () =>{
-  return <Counter />
+const App = () => {
+  return (
+    <EventPractice />
+  );
 };
 
 export default App;
