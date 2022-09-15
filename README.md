@@ -6,3 +6,6 @@
 - [5장 ref: DOM에 이름 달기](https://www.notion.so/5-ref-DOM-863df446ad834aefb0968e3bb6816304)
 - [6장 컴포넌트 반복](https://www.notion.so/6-a5d42b925c58487ba8115f9a7a9692f9)
 - [7장 컴포넌트의 라이프사이클 메서드](https://www.notion.so/7-7d0dc4122d584b8ea8d1a588d15f1499)
+- [8장 Hooks](https://www.notion.so/8-Hooks-7417f59930f34362abe346e9513dbf25)
+- [9장 컴포넌트 스타일링](https://www.notion.so/9-56e35f54d03a4cff990f58d6ec1d3374)
+- [10장 일정 관리 웹 애플리케이션 만들기](https://www.notion.so/10-d0e0780d22514cb1ab76de262e047fe5)
