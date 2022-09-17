@@ -9,3 +9,7 @@
 - [8장 Hooks](https://www.notion.so/8-Hooks-7417f59930f34362abe346e9513dbf25)
 - [9장 컴포넌트 스타일링](https://www.notion.so/9-56e35f54d03a4cff990f58d6ec1d3374)
 - [10장 일정 관리 웹 애플리케이션 만들기](https://www.notion.so/10-d0e0780d22514cb1ab76de262e047fe5)
+- [11장 컴포넌트 성능 최적화](https://www.notion.so/11-6e3a300ab2b04f71ad4bbed5c9d07587)
+- [12장 immer를 사용하여 더 쉽게 불변성 유지하기](https://www.notion.so/12-immer-be87ca278a894ca89fe2d9b07fded3b9)
+- [13장 리액트 라우터로 SPA 개발하기](https://www.notion.so/13-SPA-4a518dbd5af7441594370e76a954e3da)
+- [14장 외부 API를 연동하여 뉴스 뷰어 만들기](https://www.notion.so/14-API-37071d72e71b4be880c24b83615bebdd)
