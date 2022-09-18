@@ -14,3 +14,4 @@
 - [13장 리액트 라우터로 SPA 개발하기](https://www.notion.so/13-SPA-4a518dbd5af7441594370e76a954e3da)
 - [14장 외부 API를 연동하여 뉴스 뷰어 만들기](https://www.notion.so/14-API-37071d72e71b4be880c24b83615bebdd)
 - [15장 Context API](https://www.notion.so/15-Context-API-ffc4b14b884c481eb7b545a27a9f494c)
+- [16장 리덕스 라이브러리 이해하기](https://www.notion.so/16-3c86af82a6484879abf9ee617465bd45)
