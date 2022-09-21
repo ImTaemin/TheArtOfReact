@@ -4,7 +4,7 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { Provider } from "react-redux";
-import rootReducer, { rootSage } from "./modules";
+import rootReducer, { rootSaga } from "./modules";
 import { applyMiddleware, createStore } from "redux";
 import { createLogger } from "redux-logger";
 import ReduxThunk from "redux-thunk";
@@ -18,7 +18,7 @@ const store = createStore(
   rootReducer,
   composeWithDevTools(applyMiddleware(logger, ReduxThunk, sagaMiddleware))
 );
-sagaMiddleware.run(rootSage);
+sagaMiddleware.run(rootSaga);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
