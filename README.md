@@ -15,3 +15,8 @@
 - [14장 외부 API를 연동하여 뉴스 뷰어 만들기](https://www.notion.so/14-API-37071d72e71b4be880c24b83615bebdd)
 - [15장 Context API](https://www.notion.so/15-Context-API-ffc4b14b884c481eb7b545a27a9f494c)
 - [16장 리덕스 라이브러리 이해하기](https://www.notion.so/16-3c86af82a6484879abf9ee617465bd45)
+- [17장 리덕스를 사용하여 리액트 애플리케이션 상태 관리하기](https://www.notion.so/17-f67205bea95c4b9685dd88290f5974ba)
+- [18장 리덕스 미들웨어를 통한 비동기 작업 관리](https://www.notion.so/18-64d7705747e04dc9a0ab9135bfb595ab)
+- [19장 코드 스플리팅](https://www.notion.so/19-bc0f9986d3ff43068e0e137a4fe6367d)
+- [20장 서버 사이드 렌더링 (에러로 인해 중단)](https://www.notion.so/20-a32a9ae6e8ac4488af12a2d24bb27ebf)
+- [21장 백엔드 프로그래밍: Node.js의 Koa 프레임워크](https://www.notion.so/21-Node-js-Koa-8ffc255d918540e8bce3ffebfed7ce1c)
