@@ -1,0 +1,17 @@
+{
+  "name": "blog-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^8.24.0",
+    "eslint-config-prettier": "^8.5.0",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^12.0.0"
+  },
+  "scripts": {
+    "start": "node src",
+    "start:dev": "nodemon –watch src/ src/index.js"
+  }
+}
