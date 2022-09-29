@@ -20,4 +20,6 @@
 - [19장 코드 스플리팅](https://www.notion.so/19-bc0f9986d3ff43068e0e137a4fe6367d)
 - [20장 서버 사이드 렌더링 (에러로 인해 중단)](https://www.notion.so/20-a32a9ae6e8ac4488af12a2d24bb27ebf)
 - [21장 백엔드 프로그래밍: Node.js의 Koa 프레임워크](https://www.notion.so/21-Node-js-Koa-8ffc255d918540e8bce3ffebfed7ce1c)
-- []()
+- [22장 mongoose를 이용한 MongoDB 연동 실습](https://www.notion.so/22-mongoose-MongoDB-56fa48f63bff488eb58a4bc917a8e5c5)
+- [23장 JWT를 통한 회원 인증 시스템 구현하기](https://www.notion.so/23-JWT-a35de2fd08b74089b385a45c2a34c621)
+- [24장 프런트엔드 프로젝트 : 시작 및 회원 인증 구현](https://www.notion.so/24-4037f48a400a4aee885a50b6aacb435f)
