@@ -24,3 +24,4 @@
 - [23장 JWT를 통한 회원 인증 시스템 구현하기](https://www.notion.so/23-JWT-a35de2fd08b74089b385a45c2a34c621)
 - [24장 프런트엔드 프로젝트 : 시작 및 회원 인증 구현](https://www.notion.so/24-4037f48a400a4aee885a50b6aacb435f)
 - [25장 프런트엔드 프로젝트 : 글쓰기 기능 구현하기](https://www.notion.so/25-59cd592101024683867ea4c370b0fbc0)
+- [26장 프런트엔드 프로젝트: 포스트 조회 기능 구현하기](https://www.notion.so/26-59122042be0042159f6ec051bedf2c0d)
