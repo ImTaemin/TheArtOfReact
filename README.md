@@ -25,3 +25,4 @@
 - [24장 프런트엔드 프로젝트 : 시작 및 회원 인증 구현](https://www.notion.so/24-4037f48a400a4aee885a50b6aacb435f)
 - [25장 프런트엔드 프로젝트 : 글쓰기 기능 구현하기](https://www.notion.so/25-59cd592101024683867ea4c370b0fbc0)
 - [26장 프런트엔드 프로젝트: 포스트 조회 기능 구현하기](https://www.notion.so/26-59122042be0042159f6ec051bedf2c0d)
+- [27장 프런트엔드 프로젝트: 수정/삭제 기능 구현 및 마무리](https://www.notion.so/27-01bfd3182f7e4d31adfea3f2f06bf604)
